@@ -14,15 +14,15 @@
 | Nome | RM |
 |------|----|
 | Guilherme Filartiga Pereira da Silva | RM568034 |
-| *(preencher)* | *(preencher)* |
-| *(preencher)* | *(preencher)* |
-| *(preencher)* | *(preencher)* |
+| João Pedro Nishikawa Alves | RM562376 |
+| Gustavo Trindade Soares | RM567848 |
 
 ---
 
 ## 📦 Links dos dados hospedados
 
-<!-- EDITAR: colar aqui os links do Drive/OneDrive depois do upload (ver seção "Como publicar") -->
+🔗 [LINK DO REPOSITÓRIO NO GITHUB](https://github.com/joaonishikawa/cardioia-fase1)
+🔗 [LINK DA PASTA NO DRIVE](https://drive.google.com/drive/folders/16TdNh6JD8L_jr3J-mNYy032C7hcGvhqM?usp=sharing)
 
 | Base | Formato | Volume | Link público |
 |------|---------|--------|--------------|
