@@ -1,0 +1,454 @@
+CORPUS SINTETICO DE RELATOS DE PACIENTES - PROJETO CardioIA
+Gerado por scripts/gerar_corpus.py (dados nao reais)
+Util para analise de sentimento e extracao de sintomas.
+====================================================================
+
+[RELATO 001]
+Paciente de 75 anos relata sudorese fria, inchaco nos tornozelos ao fim do dia e cansaco aos minimos esforcos, ha mais de seis meses. Meu medico pediu que eu retornasse para reavaliacao.
+
+[RELATO 002]
+Paciente de 41 anos relata falta de ar ao subir escadas, sudorese fria e palpitacoes noturnas, desde o inicio do ano. Tenho medo de que seja algo grave no coracao.
+
+[RELATO 003]
+Paciente de 47 anos relata palpitacoes noturnas, sensacao de coracao acelerado em repouso e cansaco aos minimos esforcos, ha mais de seis meses. Desde que comecei a caminhar todo dia, tenho me sentido bem melhor.
+
+[RELATO 004]
+Paciente de 82 anos relata dor no peito ao esforco, ha duas semanas. Estou muito preocupado, isso nunca tinha acontecido comigo.
+
+[RELATO 005]
+Paciente de 80 anos relata palpitacoes noturnas, ha duas semanas. Ando dormindo mal por causa disso.
+
+[RELATO 006]
+Paciente de 84 anos relata tontura ao levantar e dor no peito ao esforco, ha duas semanas. Nao consigo mais fazer minhas atividades normais e isso me angustia.
+
+[RELATO 007]
+Paciente de 35 anos relata palpitacoes noturnas, ha poucas horas. Estou animado com os resultados dos ultimos exames.
+
+[RELATO 008]
+Paciente de 67 anos relata palpitacoes noturnas e dor no peito ao esforco, ha tres dias. Estou muito preocupado, isso nunca tinha acontecido comigo.
+
+[RELATO 009]
+Paciente de 77 anos relata aperto no peito que irradia para o braco esquerdo, palpitacoes noturnas e cansaco aos minimos esforcos, ha poucas horas. Estou muito preocupado, isso nunca tinha acontecido comigo.
+
+[RELATO 010]
+Paciente de 54 anos relata tontura ao levantar e sudorese fria, desde o inicio do ano. Estou animado com os resultados dos ultimos exames.
+
+[RELATO 011]
+Paciente de 41 anos relata dor no peito ao esforco, tontura ao levantar e sensacao de coracao acelerado em repouso, ha tres dias. Estou tomando a medicacao conforme orientado.
+
+[RELATO 012]
+Paciente de 78 anos relata tontura ao levantar e palpitacoes noturnas, ha poucas horas. Estou muito preocupado, isso nunca tinha acontecido comigo.
+
+[RELATO 013]
+Paciente de 50 anos relata inchaco nos tornozelos ao fim do dia e tontura ao levantar, ha mais de seis meses. Ando dormindo mal por causa disso.
+
+[RELATO 014]
+Paciente de 32 anos relata aperto no peito que irradia para o braco esquerdo, ha mais de seis meses. Estou animado com os resultados dos ultimos exames.
+
+[RELATO 015]
+Paciente de 61 anos relata sensacao de coracao acelerado em repouso, inchaco nos tornozelos ao fim do dia e tontura ao levantar, ha tres dias. Ando dormindo mal por causa disso.
+
+[RELATO 016]
+Paciente de 34 anos relata palpitacoes noturnas, inchaco nos tornozelos ao fim do dia e falta de ar ao subir escadas, ha cerca de um mes. Nao consigo mais fazer minhas atividades normais e isso me angustia.
+
+[RELATO 017]
+Paciente de 32 anos relata sensacao de coracao acelerado em repouso e cansaco aos minimos esforcos, ha tres dias. Vim apenas para a consulta de rotina.
+
+[RELATO 018]
+Paciente de 59 anos relata tontura ao levantar e palpitacoes noturnas, ha tres dias. Ja procurei o pronto-socorro duas vezes e continuo sem resposta.
+
+[RELATO 019]
+Paciente de 79 anos relata tontura ao levantar e dor no peito ao esforco, desde o inicio do ano. O sintoma aparece e some, nao chega a me atrapalhar.
+
+[RELATO 020]
+Paciente de 59 anos relata tontura ao levantar e inchaco nos tornozelos ao fim do dia, ha duas semanas. Ando dormindo mal por causa disso.
+
+[RELATO 021]
+Paciente de 45 anos relata sudorese fria e palpitacoes noturnas, ha poucas horas. Meu medico pediu que eu retornasse para reavaliacao.
+
+[RELATO 022]
+Paciente de 32 anos relata falta de ar ao subir escadas, ha poucas horas. Tenho medo de que seja algo grave no coracao.
+
+[RELATO 023]
+Paciente de 66 anos relata falta de ar ao subir escadas, ha cerca de um mes. Estou muito preocupado, isso nunca tinha acontecido comigo.
+
+[RELATO 024]
+Paciente de 60 anos relata falta de ar ao subir escadas, ha tres dias. Tenho medo de que seja algo grave no coracao.
+
+[RELATO 025]
+Paciente de 51 anos relata dor no peito ao esforco, desde o inicio do ano. Vim apenas para a consulta de rotina.
+
+[RELATO 026]
+Paciente de 85 anos relata palpitacoes noturnas e cansaco aos minimos esforcos, ha poucas horas. Estou tomando a medicacao conforme orientado.
+
+[RELATO 027]
+Paciente de 70 anos relata cansaco aos minimos esforcos, tontura ao levantar e palpitacoes noturnas, ha duas semanas. Ja procurei o pronto-socorro duas vezes e continuo sem resposta.
+
+[RELATO 028]
+Paciente de 56 anos relata aperto no peito que irradia para o braco esquerdo, palpitacoes noturnas e inchaco nos tornozelos ao fim do dia, ha cerca de um mes. Melhorei bastante depois do ajuste do remedio.
+
+[RELATO 029]
+Paciente de 69 anos relata falta de ar ao subir escadas, sudorese fria e cansaco aos minimos esforcos, ha tres dias. Ando dormindo mal por causa disso.
+
+[RELATO 030]
+Paciente de 62 anos relata tontura ao levantar e falta de ar ao subir escadas, ha poucas horas. Estou muito preocupado, isso nunca tinha acontecido comigo.
+
+[RELATO 031]
+Paciente de 73 anos relata aperto no peito que irradia para o braco esquerdo, ha poucas horas. Meu medico pediu que eu retornasse para reavaliacao.
+
+[RELATO 032]
+Paciente de 66 anos relata palpitacoes noturnas e inchaco nos tornozelos ao fim do dia, ha duas semanas. Estou animado com os resultados dos ultimos exames.
+
+[RELATO 033]
+Paciente de 56 anos relata falta de ar ao subir escadas, palpitacoes noturnas e tontura ao levantar, ha mais de seis meses. Estou muito preocupado, isso nunca tinha acontecido comigo.
+
+[RELATO 034]
+Paciente de 65 anos relata falta de ar ao subir escadas e sudorese fria, ha duas semanas. O sintoma aparece e some, nao chega a me atrapalhar.
+
+[RELATO 035]
+Paciente de 57 anos relata tontura ao levantar, dor no peito ao esforco e palpitacoes noturnas, ha poucas horas. Ja procurei o pronto-socorro duas vezes e continuo sem resposta.
+
+[RELATO 036]
+Paciente de 39 anos relata sensacao de coracao acelerado em repouso e tontura ao levantar, ha tres dias. Ando dormindo mal por causa disso.
+
+[RELATO 037]
+Paciente de 67 anos relata dor no peito ao esforco, ha mais de seis meses. Ja procurei o pronto-socorro duas vezes e continuo sem resposta.
+
+[RELATO 038]
+Paciente de 65 anos relata falta de ar ao subir escadas, tontura ao levantar e palpitacoes noturnas, desde o inicio do ano. Tenho medo de que seja algo grave no coracao.
+
+[RELATO 039]
+Paciente de 71 anos relata dor no peito ao esforco, falta de ar ao subir escadas e cansaco aos minimos esforcos, ha tres dias. Estou tomando a medicacao conforme orientado.
+
+[RELATO 040]
+Paciente de 80 anos relata dor no peito ao esforco, ha duas semanas. Vim apenas para a consulta de rotina.
+
+[RELATO 041]
+Paciente de 58 anos relata inchaco nos tornozelos ao fim do dia e cansaco aos minimos esforcos, desde o inicio do ano. O sintoma aparece e some, nao chega a me atrapalhar.
+
+[RELATO 042]
+Paciente de 77 anos relata falta de ar ao subir escadas, ha mais de seis meses. Estou tomando a medicacao conforme orientado.
+
+[RELATO 043]
+Paciente de 63 anos relata inchaco nos tornozelos ao fim do dia, ha mais de seis meses. Desde que comecei a caminhar todo dia, tenho me sentido bem melhor.
+
+[RELATO 044]
+Paciente de 39 anos relata aperto no peito que irradia para o braco esquerdo, ha tres dias. Vim apenas para a consulta de rotina.
+
+[RELATO 045]
+Paciente de 72 anos relata cansaco aos minimos esforcos, ha cerca de um mes. Ja procurei o pronto-socorro duas vezes e continuo sem resposta.
+
+[RELATO 046]
+Paciente de 64 anos relata aperto no peito que irradia para o braco esquerdo e cansaco aos minimos esforcos, ha duas semanas. Ja procurei o pronto-socorro duas vezes e continuo sem resposta.
+
+[RELATO 047]
+Paciente de 40 anos relata aperto no peito que irradia para o braco esquerdo, ha tres dias. Ja procurei o pronto-socorro duas vezes e continuo sem resposta.
+
+[RELATO 048]
+Paciente de 46 anos relata dor no peito ao esforco, tontura ao levantar e palpitacoes noturnas, ha cerca de um mes. Meu medico pediu que eu retornasse para reavaliacao.
+
+[RELATO 049]
+Paciente de 67 anos relata sudorese fria e falta de ar ao subir escadas, ha poucas horas. Tenho medo de que seja algo grave no coracao.
+
+[RELATO 050]
+Paciente de 71 anos relata sudorese fria, inchaco nos tornozelos ao fim do dia e falta de ar ao subir escadas, ha tres dias. Vim apenas para a consulta de rotina.
+
+[RELATO 051]
+Paciente de 39 anos relata sensacao de coracao acelerado em repouso, ha tres dias. Vim apenas para a consulta de rotina.
+
+[RELATO 052]
+Paciente de 68 anos relata dor no peito ao esforco, falta de ar ao subir escadas e cansaco aos minimos esforcos, ha poucas horas. Melhorei bastante depois do ajuste do remedio.
+
+[RELATO 053]
+Paciente de 40 anos relata tontura ao levantar e palpitacoes noturnas, desde o inicio do ano. Desde que comecei a caminhar todo dia, tenho me sentido bem melhor.
+
+[RELATO 054]
+Paciente de 57 anos relata inchaco nos tornozelos ao fim do dia e falta de ar ao subir escadas, ha cerca de um mes. Estou animado com os resultados dos ultimos exames.
+
+[RELATO 055]
+Paciente de 82 anos relata cansaco aos minimos esforcos, ha tres dias. Tenho medo de que seja algo grave no coracao.
+
+[RELATO 056]
+Paciente de 53 anos relata cansaco aos minimos esforcos, ha mais de seis meses. Meu medico pediu que eu retornasse para reavaliacao.
+
+[RELATO 057]
+Paciente de 48 anos relata inchaco nos tornozelos ao fim do dia, ha tres dias. Desde que comecei a caminhar todo dia, tenho me sentido bem melhor.
+
+[RELATO 058]
+Paciente de 68 anos relata aperto no peito que irradia para o braco esquerdo e sensacao de coracao acelerado em repouso, ha poucas horas. Meu medico pediu que eu retornasse para reavaliacao.
+
+[RELATO 059]
+Paciente de 56 anos relata dor no peito ao esforco, desde o inicio do ano. Meu medico pediu que eu retornasse para reavaliacao.
+
+[RELATO 060]
+Paciente de 84 anos relata sensacao de coracao acelerado em repouso, dor no peito ao esforco e falta de ar ao subir escadas, ha tres dias. Ja procurei o pronto-socorro duas vezes e continuo sem resposta.
+
+[RELATO 061]
+Paciente de 72 anos relata aperto no peito que irradia para o braco esquerdo, inchaco nos tornozelos ao fim do dia e tontura ao levantar, ha duas semanas. Estou tomando a medicacao conforme orientado.
+
+[RELATO 062]
+Paciente de 58 anos relata inchaco nos tornozelos ao fim do dia e aperto no peito que irradia para o braco esquerdo, desde o inicio do ano. Tenho medo de que seja algo grave no coracao.
+
+[RELATO 063]
+Paciente de 72 anos relata dor no peito ao esforco, ha poucas horas. Nao consigo mais fazer minhas atividades normais e isso me angustia.
+
+[RELATO 064]
+Paciente de 67 anos relata aperto no peito que irradia para o braco esquerdo e sudorese fria, ha duas semanas. Tenho medo de que seja algo grave no coracao.
+
+[RELATO 065]
+Paciente de 48 anos relata inchaco nos tornozelos ao fim do dia, sudorese fria e sensacao de coracao acelerado em repouso, ha cerca de um mes. O sintoma aparece e some, nao chega a me atrapalhar.
+
+[RELATO 066]
+Paciente de 34 anos relata dor no peito ao esforco e inchaco nos tornozelos ao fim do dia, desde o inicio do ano. Estou tomando a medicacao conforme orientado.
+
+[RELATO 067]
+Paciente de 49 anos relata tontura ao levantar, palpitacoes noturnas e inchaco nos tornozelos ao fim do dia, ha mais de seis meses. Ja procurei o pronto-socorro duas vezes e continuo sem resposta.
+
+[RELATO 068]
+Paciente de 84 anos relata tontura ao levantar e palpitacoes noturnas, ha duas semanas. Estou tomando a medicacao conforme orientado.
+
+[RELATO 069]
+Paciente de 67 anos relata dor no peito ao esforco, desde o inicio do ano. Ando dormindo mal por causa disso.
+
+[RELATO 070]
+Paciente de 61 anos relata dor no peito ao esforco, ha poucas horas. Nao consigo mais fazer minhas atividades normais e isso me angustia.
+
+[RELATO 071]
+Paciente de 40 anos relata dor no peito ao esforco, ha duas semanas. Meu medico pediu que eu retornasse para reavaliacao.
+
+[RELATO 072]
+Paciente de 39 anos relata sudorese fria, ha poucas horas. Estou muito preocupado, isso nunca tinha acontecido comigo.
+
+[RELATO 073]
+Paciente de 42 anos relata sensacao de coracao acelerado em repouso e palpitacoes noturnas, ha tres dias. Meu medico pediu que eu retornasse para reavaliacao.
+
+[RELATO 074]
+Paciente de 81 anos relata tontura ao levantar, ha duas semanas. Desde que comecei a caminhar todo dia, tenho me sentido bem melhor.
+
+[RELATO 075]
+Paciente de 33 anos relata inchaco nos tornozelos ao fim do dia e tontura ao levantar, ha duas semanas. Tenho medo de que seja algo grave no coracao.
+
+[RELATO 076]
+Paciente de 70 anos relata dor no peito ao esforco, ha cerca de um mes. Ja procurei o pronto-socorro duas vezes e continuo sem resposta.
+
+[RELATO 077]
+Paciente de 81 anos relata dor no peito ao esforco, inchaco nos tornozelos ao fim do dia e sensacao de coracao acelerado em repouso, ha tres dias. Nao consigo mais fazer minhas atividades normais e isso me angustia.
+
+[RELATO 078]
+Paciente de 31 anos relata dor no peito ao esforco, inchaco nos tornozelos ao fim do dia e falta de ar ao subir escadas, ha cerca de um mes. Nao consigo mais fazer minhas atividades normais e isso me angustia.
+
+[RELATO 079]
+Paciente de 61 anos relata aperto no peito que irradia para o braco esquerdo, palpitacoes noturnas e dor no peito ao esforco, ha duas semanas. Meu medico pediu que eu retornasse para reavaliacao.
+
+[RELATO 080]
+Paciente de 36 anos relata sensacao de coracao acelerado em repouso e aperto no peito que irradia para o braco esquerdo, desde o inicio do ano. Melhorei bastante depois do ajuste do remedio.
+
+[RELATO 081]
+Paciente de 85 anos relata sudorese fria, sensacao de coracao acelerado em repouso e inchaco nos tornozelos ao fim do dia, ha mais de seis meses. Estou muito preocupado, isso nunca tinha acontecido comigo.
+
+[RELATO 082]
+Paciente de 32 anos relata cansaco aos minimos esforcos, ha poucas horas. O sintoma aparece e some, nao chega a me atrapalhar.
+
+[RELATO 083]
+Paciente de 46 anos relata falta de ar ao subir escadas e aperto no peito que irradia para o braco esquerdo, ha cerca de um mes. Vim apenas para a consulta de rotina.
+
+[RELATO 084]
+Paciente de 53 anos relata aperto no peito que irradia para o braco esquerdo, ha mais de seis meses. Estou tomando a medicacao conforme orientado.
+
+[RELATO 085]
+Paciente de 60 anos relata tontura ao levantar, ha poucas horas. O sintoma aparece e some, nao chega a me atrapalhar.
+
+[RELATO 086]
+Paciente de 67 anos relata inchaco nos tornozelos ao fim do dia, sudorese fria e cansaco aos minimos esforcos, ha cerca de um mes. Estou muito preocupado, isso nunca tinha acontecido comigo.
+
+[RELATO 087]
+Paciente de 56 anos relata palpitacoes noturnas, cansaco aos minimos esforcos e tontura ao levantar, ha mais de seis meses. Vim apenas para a consulta de rotina.
+
+[RELATO 088]
+Paciente de 42 anos relata inchaco nos tornozelos ao fim do dia, cansaco aos minimos esforcos e sudorese fria, ha mais de seis meses. Vim apenas para a consulta de rotina.
+
+[RELATO 089]
+Paciente de 61 anos relata cansaco aos minimos esforcos, ha poucas horas. Nao consigo mais fazer minhas atividades normais e isso me angustia.
+
+[RELATO 090]
+Paciente de 42 anos relata inchaco nos tornozelos ao fim do dia, sudorese fria e falta de ar ao subir escadas, ha tres dias. Tenho medo de que seja algo grave no coracao.
+
+[RELATO 091]
+Paciente de 32 anos relata sudorese fria e cansaco aos minimos esforcos, ha mais de seis meses. Estou muito preocupado, isso nunca tinha acontecido comigo.
+
+[RELATO 092]
+Paciente de 57 anos relata falta de ar ao subir escadas e inchaco nos tornozelos ao fim do dia, ha duas semanas. Nao consigo mais fazer minhas atividades normais e isso me angustia.
+
+[RELATO 093]
+Paciente de 57 anos relata falta de ar ao subir escadas, desde o inicio do ano. Estou muito preocupado, isso nunca tinha acontecido comigo.
+
+[RELATO 094]
+Paciente de 37 anos relata tontura ao levantar, cansaco aos minimos esforcos e dor no peito ao esforco, ha poucas horas. Ja procurei o pronto-socorro duas vezes e continuo sem resposta.
+
+[RELATO 095]
+Paciente de 82 anos relata tontura ao levantar, ha mais de seis meses. Ja procurei o pronto-socorro duas vezes e continuo sem resposta.
+
+[RELATO 096]
+Paciente de 44 anos relata palpitacoes noturnas, falta de ar ao subir escadas e tontura ao levantar, ha duas semanas. Melhorei bastante depois do ajuste do remedio.
+
+[RELATO 097]
+Paciente de 71 anos relata aperto no peito que irradia para o braco esquerdo, palpitacoes noturnas e cansaco aos minimos esforcos, ha mais de seis meses. Ja procurei o pronto-socorro duas vezes e continuo sem resposta.
+
+[RELATO 098]
+Paciente de 54 anos relata falta de ar ao subir escadas, cansaco aos minimos esforcos e aperto no peito que irradia para o braco esquerdo, ha duas semanas. Ja procurei o pronto-socorro duas vezes e continuo sem resposta.
+
+[RELATO 099]
+Paciente de 70 anos relata tontura ao levantar, ha mais de seis meses. Ando dormindo mal por causa disso.
+
+[RELATO 100]
+Paciente de 55 anos relata tontura ao levantar e aperto no peito que irradia para o braco esquerdo, desde o inicio do ano. Meu medico pediu que eu retornasse para reavaliacao.
+
+[RELATO 101]
+Paciente de 68 anos relata sensacao de coracao acelerado em repouso, ha tres dias. Desde que comecei a caminhar todo dia, tenho me sentido bem melhor.
+
+[RELATO 102]
+Paciente de 32 anos relata sudorese fria e cansaco aos minimos esforcos, ha cerca de um mes. O sintoma aparece e some, nao chega a me atrapalhar.
+
+[RELATO 103]
+Paciente de 39 anos relata tontura ao levantar, desde o inicio do ano. Ja procurei o pronto-socorro duas vezes e continuo sem resposta.
+
+[RELATO 104]
+Paciente de 79 anos relata palpitacoes noturnas, tontura ao levantar e inchaco nos tornozelos ao fim do dia, ha tres dias. Vim apenas para a consulta de rotina.
+
+[RELATO 105]
+Paciente de 84 anos relata inchaco nos tornozelos ao fim do dia e cansaco aos minimos esforcos, ha cerca de um mes. Ja procurei o pronto-socorro duas vezes e continuo sem resposta.
+
+[RELATO 106]
+Paciente de 49 anos relata sensacao de coracao acelerado em repouso, falta de ar ao subir escadas e dor no peito ao esforco, desde o inicio do ano. Vim apenas para a consulta de rotina.
+
+[RELATO 107]
+Paciente de 72 anos relata tontura ao levantar, cansaco aos minimos esforcos e aperto no peito que irradia para o braco esquerdo, ha mais de seis meses. Meu medico pediu que eu retornasse para reavaliacao.
+
+[RELATO 108]
+Paciente de 56 anos relata cansaco aos minimos esforcos, desde o inicio do ano. Ja procurei o pronto-socorro duas vezes e continuo sem resposta.
+
+[RELATO 109]
+Paciente de 54 anos relata dor no peito ao esforco, ha tres dias. Tenho medo de que seja algo grave no coracao.
+
+[RELATO 110]
+Paciente de 75 anos relata tontura ao levantar e dor no peito ao esforco, ha poucas horas. Estou muito preocupado, isso nunca tinha acontecido comigo.
+
+[RELATO 111]
+Paciente de 64 anos relata palpitacoes noturnas e inchaco nos tornozelos ao fim do dia, ha tres dias. Ja procurei o pronto-socorro duas vezes e continuo sem resposta.
+
+[RELATO 112]
+Paciente de 68 anos relata inchaco nos tornozelos ao fim do dia, sensacao de coracao acelerado em repouso e aperto no peito que irradia para o braco esquerdo, desde o inicio do ano. Ja procurei o pronto-socorro duas vezes e continuo sem resposta.
+
+[RELATO 113]
+Paciente de 56 anos relata sudorese fria e aperto no peito que irradia para o braco esquerdo, desde o inicio do ano. Tenho medo de que seja algo grave no coracao.
+
+[RELATO 114]
+Paciente de 52 anos relata palpitacoes noturnas e sensacao de coracao acelerado em repouso, ha duas semanas. Ando dormindo mal por causa disso.
+
+[RELATO 115]
+Paciente de 81 anos relata sudorese fria e dor no peito ao esforco, desde o inicio do ano. Nao consigo mais fazer minhas atividades normais e isso me angustia.
+
+[RELATO 116]
+Paciente de 34 anos relata sensacao de coracao acelerado em repouso, ha duas semanas. Vim apenas para a consulta de rotina.
+
+[RELATO 117]
+Paciente de 79 anos relata tontura ao levantar, ha poucas horas. Tenho medo de que seja algo grave no coracao.
+
+[RELATO 118]
+Paciente de 57 anos relata palpitacoes noturnas e inchaco nos tornozelos ao fim do dia, ha tres dias. Meu medico pediu que eu retornasse para reavaliacao.
+
+[RELATO 119]
+Paciente de 62 anos relata falta de ar ao subir escadas e inchaco nos tornozelos ao fim do dia, ha cerca de um mes. Estou tomando a medicacao conforme orientado.
+
+[RELATO 120]
+Paciente de 64 anos relata sensacao de coracao acelerado em repouso, desde o inicio do ano. O sintoma aparece e some, nao chega a me atrapalhar.
+
+[RELATO 121]
+Paciente de 34 anos relata palpitacoes noturnas, inchaco nos tornozelos ao fim do dia e falta de ar ao subir escadas, ha mais de seis meses. Estou muito preocupado, isso nunca tinha acontecido comigo.
+
+[RELATO 122]
+Paciente de 66 anos relata tontura ao levantar, ha cerca de um mes. Meu medico pediu que eu retornasse para reavaliacao.
+
+[RELATO 123]
+Paciente de 50 anos relata inchaco nos tornozelos ao fim do dia e palpitacoes noturnas, ha cerca de um mes. Estou tomando a medicacao conforme orientado.
+
+[RELATO 124]
+Paciente de 56 anos relata aperto no peito que irradia para o braco esquerdo, ha poucas horas. Estou muito preocupado, isso nunca tinha acontecido comigo.
+
+[RELATO 125]
+Paciente de 37 anos relata falta de ar ao subir escadas, inchaco nos tornozelos ao fim do dia e dor no peito ao esforco, ha tres dias. Ando dormindo mal por causa disso.
+
+[RELATO 126]
+Paciente de 63 anos relata sudorese fria, ha mais de seis meses. Ja procurei o pronto-socorro duas vezes e continuo sem resposta.
+
+[RELATO 127]
+Paciente de 78 anos relata inchaco nos tornozelos ao fim do dia, sensacao de coracao acelerado em repouso e sudorese fria, desde o inicio do ano. Ja procurei o pronto-socorro duas vezes e continuo sem resposta.
+
+[RELATO 128]
+Paciente de 64 anos relata cansaco aos minimos esforcos e aperto no peito que irradia para o braco esquerdo, ha cerca de um mes. O sintoma aparece e some, nao chega a me atrapalhar.
+
+[RELATO 129]
+Paciente de 37 anos relata sensacao de coracao acelerado em repouso, ha duas semanas. Estou tomando a medicacao conforme orientado.
+
+[RELATO 130]
+Paciente de 83 anos relata palpitacoes noturnas, ha duas semanas. Melhorei bastante depois do ajuste do remedio.
+
+[RELATO 131]
+Paciente de 68 anos relata sensacao de coracao acelerado em repouso, ha mais de seis meses. Estou animado com os resultados dos ultimos exames.
+
+[RELATO 132]
+Paciente de 72 anos relata sensacao de coracao acelerado em repouso, desde o inicio do ano. Vim apenas para a consulta de rotina.
+
+[RELATO 133]
+Paciente de 67 anos relata tontura ao levantar, ha poucas horas. Melhorei bastante depois do ajuste do remedio.
+
+[RELATO 134]
+Paciente de 43 anos relata dor no peito ao esforco e sudorese fria, ha duas semanas. Estou muito preocupado, isso nunca tinha acontecido comigo.
+
+[RELATO 135]
+Paciente de 59 anos relata palpitacoes noturnas e inchaco nos tornozelos ao fim do dia, ha duas semanas. Ja procurei o pronto-socorro duas vezes e continuo sem resposta.
+
+[RELATO 136]
+Paciente de 78 anos relata cansaco aos minimos esforcos, ha mais de seis meses. Tenho medo de que seja algo grave no coracao.
+
+[RELATO 137]
+Paciente de 84 anos relata cansaco aos minimos esforcos e palpitacoes noturnas, ha mais de seis meses. Tenho medo de que seja algo grave no coracao.
+
+[RELATO 138]
+Paciente de 47 anos relata palpitacoes noturnas, dor no peito ao esforco e falta de ar ao subir escadas, ha cerca de um mes. Vim apenas para a consulta de rotina.
+
+[RELATO 139]
+Paciente de 33 anos relata sudorese fria, ha poucas horas. Ando dormindo mal por causa disso.
+
+[RELATO 140]
+Paciente de 67 anos relata aperto no peito que irradia para o braco esquerdo e tontura ao levantar, ha mais de seis meses. Ja procurei o pronto-socorro duas vezes e continuo sem resposta.
+
+[RELATO 141]
+Paciente de 74 anos relata dor no peito ao esforco, sensacao de coracao acelerado em repouso e falta de ar ao subir escadas, ha poucas horas. Tenho medo de que seja algo grave no coracao.
+
+[RELATO 142]
+Paciente de 70 anos relata dor no peito ao esforco, ha poucas horas. O sintoma aparece e some, nao chega a me atrapalhar.
+
+[RELATO 143]
+Paciente de 61 anos relata aperto no peito que irradia para o braco esquerdo, sensacao de coracao acelerado em repouso e cansaco aos minimos esforcos, ha mais de seis meses. Ja procurei o pronto-socorro duas vezes e continuo sem resposta.
+
+[RELATO 144]
+Paciente de 43 anos relata cansaco aos minimos esforcos, sudorese fria e dor no peito ao esforco, desde o inicio do ano. Estou tomando a medicacao conforme orientado.
+
+[RELATO 145]
+Paciente de 49 anos relata sensacao de coracao acelerado em repouso, ha cerca de um mes. Estou tomando a medicacao conforme orientado.
+
+[RELATO 146]
+Paciente de 68 anos relata inchaco nos tornozelos ao fim do dia, ha cerca de um mes. Melhorei bastante depois do ajuste do remedio.
+
+[RELATO 147]
+Paciente de 46 anos relata sudorese fria, ha duas semanas. Tenho medo de que seja algo grave no coracao.
+
+[RELATO 148]
+Paciente de 45 anos relata tontura ao levantar, ha tres dias. Estou tomando a medicacao conforme orientado.
+
+[RELATO 149]
+Paciente de 69 anos relata palpitacoes noturnas, ha tres dias. Estou muito preocupado, isso nunca tinha acontecido comigo.
+
+[RELATO 150]
+Paciente de 82 anos relata cansaco aos minimos esforcos e sensacao de coracao acelerado em repouso, ha tres dias. Estou tomando a medicacao conforme orientado.

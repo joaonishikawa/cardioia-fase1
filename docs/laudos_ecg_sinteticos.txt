@@ -1,0 +1,453 @@
+CORPUS SINTETICO DE LAUDOS DE ECG - PROJETO CardioIA
+Gerado por scripts/gerar_corpus.py (dados nao reais)
+====================================================================
+
+[LAUDO 001]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 136 bpm. Observa-se bradicardia sinusal, com infradesnivelamento do segmento ST de 1 mm em V5-V6. infradesnivelamento do segmento ST de 1 mm em V5-V6. Sugere-se correlacao clinica.
+
+[LAUDO 002]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 127 bpm. Observa-se bradicardia sinusal, com presenca de extrassistoles ventriculares isoladas. presenca de extrassistoles ventriculares isoladas. Sugere-se correlacao clinica.
+
+[LAUDO 003]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 126 bpm. Observa-se bradicardia sinusal, com alteracao inespecifica da onda T em parede inferior. alteracao inespecifica da onda T em parede inferior. Manter seguimento ambulatorial de rotina.
+
+[LAUDO 004]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 42 bpm. Observa-se bradicardia sinusal, com eixo eletrico desviado para a esquerda. sem alteracoes agudas da repolarizacao ventricular. Encaminhar para avaliacao cardiologica em carater prioritario.
+
+[LAUDO 005]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 132 bpm. Observa-se ritmo sinusal com arritmia respiratoria, com bloqueio de ramo direito incompleto. infradesnivelamento do segmento ST de 1 mm em V5-V6. Encaminhar para avaliacao cardiologica em carater prioritario.
+
+[LAUDO 006]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 50 bpm. Observa-se taquicardia sinusal, com bloqueio de ramo direito incompleto. sobrecarga ventricular esquerda pelo criterio de Sokolow-Lyon. Encaminhar para avaliacao cardiologica em carater prioritario.
+
+[LAUDO 007]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 114 bpm. Observa-se fibrilacao atrial de resposta ventricular controlada, com eixo eletrico desviado para a esquerda. bloqueio de ramo direito incompleto. Encaminhar para avaliacao cardiologica em carater prioritario.
+
+[LAUDO 008]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 54 bpm. Observa-se bradicardia sinusal, com infradesnivelamento do segmento ST de 1 mm em V5-V6. bloqueio de ramo direito incompleto. Indicado Holter de 24 horas para melhor caracterizacao.
+
+[LAUDO 009]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 75 bpm. Observa-se ritmo sinusal com arritmia respiratoria, com presenca de extrassistoles ventriculares isoladas. infradesnivelamento do segmento ST de 1 mm em V5-V6. Recomenda-se ecocardiograma transtoracico complementar.
+
+[LAUDO 010]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 145 bpm. Observa-se ritmo sinusal com arritmia respiratoria, com bloqueio de ramo direito incompleto. sobrecarga ventricular esquerda pelo criterio de Sokolow-Lyon. Manter seguimento ambulatorial de rotina.
+
+[LAUDO 011]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 79 bpm. Observa-se bradicardia sinusal, com alteracao inespecifica da onda T em parede inferior. sem alteracoes agudas da repolarizacao ventricular. Encaminhar para avaliacao cardiologica em carater prioritario.
+
+[LAUDO 012]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 105 bpm. Observa-se taquicardia sinusal, com eixo eletrico desviado para a esquerda. presenca de extrassistoles ventriculares isoladas. Sugere-se correlacao clinica.
+
+[LAUDO 013]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 114 bpm. Observa-se ritmo sinusal com arritmia respiratoria, com sem alteracoes agudas da repolarizacao ventricular. bloqueio de ramo direito incompleto. Indicado Holter de 24 horas para melhor caracterizacao.
+
+[LAUDO 014]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 118 bpm. Observa-se bradicardia sinusal, com bloqueio de ramo direito incompleto. presenca de extrassistoles ventriculares isoladas. Indicado Holter de 24 horas para melhor caracterizacao.
+
+[LAUDO 015]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 49 bpm. Observa-se ritmo sinusal regular, com sem alteracoes agudas da repolarizacao ventricular. infradesnivelamento do segmento ST de 1 mm em V5-V6. Encaminhar para avaliacao cardiologica em carater prioritario.
+
+[LAUDO 016]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 75 bpm. Observa-se ritmo sinusal regular, com sem alteracoes agudas da repolarizacao ventricular. sem alteracoes agudas da repolarizacao ventricular. Encaminhar para avaliacao cardiologica em carater prioritario.
+
+[LAUDO 017]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 58 bpm. Observa-se taquicardia sinusal, com alteracao inespecifica da onda T em parede inferior. bloqueio de ramo direito incompleto. Indicado Holter de 24 horas para melhor caracterizacao.
+
+[LAUDO 018]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 119 bpm. Observa-se bradicardia sinusal, com bloqueio de ramo direito incompleto. alteracao inespecifica da onda T em parede inferior. Sugere-se correlacao clinica.
+
+[LAUDO 019]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 141 bpm. Observa-se taquicardia sinusal, com alteracao inespecifica da onda T em parede inferior. infradesnivelamento do segmento ST de 1 mm em V5-V6. Recomenda-se ecocardiograma transtoracico complementar.
+
+[LAUDO 020]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 120 bpm. Observa-se bradicardia sinusal, com bloqueio de ramo direito incompleto. sobrecarga ventricular esquerda pelo criterio de Sokolow-Lyon. Encaminhar para avaliacao cardiologica em carater prioritario.
+
+[LAUDO 021]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 124 bpm. Observa-se bradicardia sinusal, com alteracao inespecifica da onda T em parede inferior. eixo eletrico desviado para a esquerda. Manter seguimento ambulatorial de rotina.
+
+[LAUDO 022]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 81 bpm. Observa-se taquicardia sinusal, com presenca de extrassistoles ventriculares isoladas. eixo eletrico desviado para a esquerda. Indicado Holter de 24 horas para melhor caracterizacao.
+
+[LAUDO 023]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 97 bpm. Observa-se taquicardia sinusal, com sobrecarga ventricular esquerda pelo criterio de Sokolow-Lyon. presenca de extrassistoles ventriculares isoladas. Manter seguimento ambulatorial de rotina.
+
+[LAUDO 024]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 101 bpm. Observa-se taquicardia sinusal, com bloqueio de ramo direito incompleto. bloqueio de ramo direito incompleto. Sugere-se correlacao clinica.
+
+[LAUDO 025]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 114 bpm. Observa-se fibrilacao atrial de resposta ventricular controlada, com sem alteracoes agudas da repolarizacao ventricular. sobrecarga ventricular esquerda pelo criterio de Sokolow-Lyon. Sugere-se correlacao clinica.
+
+[LAUDO 026]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 144 bpm. Observa-se ritmo sinusal com arritmia respiratoria, com sem alteracoes agudas da repolarizacao ventricular. infradesnivelamento do segmento ST de 1 mm em V5-V6. Encaminhar para avaliacao cardiologica em carater prioritario.
+
+[LAUDO 027]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 70 bpm. Observa-se bradicardia sinusal, com presenca de extrassistoles ventriculares isoladas. alteracao inespecifica da onda T em parede inferior. Manter seguimento ambulatorial de rotina.
+
+[LAUDO 028]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 61 bpm. Observa-se ritmo sinusal regular, com infradesnivelamento do segmento ST de 1 mm em V5-V6. bloqueio de ramo direito incompleto. Sugere-se correlacao clinica.
+
+[LAUDO 029]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 129 bpm. Observa-se ritmo sinusal com arritmia respiratoria, com sobrecarga ventricular esquerda pelo criterio de Sokolow-Lyon. alteracao inespecifica da onda T em parede inferior. Recomenda-se ecocardiograma transtoracico complementar.
+
+[LAUDO 030]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 87 bpm. Observa-se taquicardia sinusal, com bloqueio de ramo direito incompleto. bloqueio de ramo direito incompleto. Recomenda-se ecocardiograma transtoracico complementar.
+
+[LAUDO 031]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 136 bpm. Observa-se ritmo sinusal regular, com sem alteracoes agudas da repolarizacao ventricular. sobrecarga ventricular esquerda pelo criterio de Sokolow-Lyon. Manter seguimento ambulatorial de rotina.
+
+[LAUDO 032]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 129 bpm. Observa-se fibrilacao atrial de resposta ventricular controlada, com infradesnivelamento do segmento ST de 1 mm em V5-V6. alteracao inespecifica da onda T em parede inferior. Sugere-se correlacao clinica.
+
+[LAUDO 033]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 108 bpm. Observa-se fibrilacao atrial de resposta ventricular controlada, com infradesnivelamento do segmento ST de 1 mm em V5-V6. sobrecarga ventricular esquerda pelo criterio de Sokolow-Lyon. Recomenda-se ecocardiograma transtoracico complementar.
+
+[LAUDO 034]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 84 bpm. Observa-se ritmo sinusal com arritmia respiratoria, com eixo eletrico desviado para a esquerda. sem alteracoes agudas da repolarizacao ventricular. Encaminhar para avaliacao cardiologica em carater prioritario.
+
+[LAUDO 035]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 92 bpm. Observa-se fibrilacao atrial de resposta ventricular controlada, com sem alteracoes agudas da repolarizacao ventricular. bloqueio de ramo direito incompleto. Encaminhar para avaliacao cardiologica em carater prioritario.
+
+[LAUDO 036]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 139 bpm. Observa-se fibrilacao atrial de resposta ventricular controlada, com sobrecarga ventricular esquerda pelo criterio de Sokolow-Lyon. eixo eletrico desviado para a esquerda. Manter seguimento ambulatorial de rotina.
+
+[LAUDO 037]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 142 bpm. Observa-se taquicardia sinusal, com eixo eletrico desviado para a esquerda. infradesnivelamento do segmento ST de 1 mm em V5-V6. Sugere-se correlacao clinica.
+
+[LAUDO 038]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 90 bpm. Observa-se fibrilacao atrial de resposta ventricular controlada, com alteracao inespecifica da onda T em parede inferior. bloqueio de ramo direito incompleto. Encaminhar para avaliacao cardiologica em carater prioritario.
+
+[LAUDO 039]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 50 bpm. Observa-se ritmo sinusal com arritmia respiratoria, com infradesnivelamento do segmento ST de 1 mm em V5-V6. infradesnivelamento do segmento ST de 1 mm em V5-V6. Manter seguimento ambulatorial de rotina.
+
+[LAUDO 040]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 93 bpm. Observa-se ritmo sinusal regular, com bloqueio de ramo direito incompleto. sem alteracoes agudas da repolarizacao ventricular. Indicado Holter de 24 horas para melhor caracterizacao.
+
+[LAUDO 041]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 78 bpm. Observa-se ritmo sinusal com arritmia respiratoria, com presenca de extrassistoles ventriculares isoladas. infradesnivelamento do segmento ST de 1 mm em V5-V6. Indicado Holter de 24 horas para melhor caracterizacao.
+
+[LAUDO 042]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 83 bpm. Observa-se bradicardia sinusal, com presenca de extrassistoles ventriculares isoladas. bloqueio de ramo direito incompleto. Manter seguimento ambulatorial de rotina.
+
+[LAUDO 043]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 100 bpm. Observa-se ritmo sinusal com arritmia respiratoria, com bloqueio de ramo direito incompleto. alteracao inespecifica da onda T em parede inferior. Encaminhar para avaliacao cardiologica em carater prioritario.
+
+[LAUDO 044]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 146 bpm. Observa-se taquicardia sinusal, com alteracao inespecifica da onda T em parede inferior. sem alteracoes agudas da repolarizacao ventricular. Indicado Holter de 24 horas para melhor caracterizacao.
+
+[LAUDO 045]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 45 bpm. Observa-se ritmo sinusal com arritmia respiratoria, com sobrecarga ventricular esquerda pelo criterio de Sokolow-Lyon. alteracao inespecifica da onda T em parede inferior. Manter seguimento ambulatorial de rotina.
+
+[LAUDO 046]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 143 bpm. Observa-se fibrilacao atrial de resposta ventricular controlada, com alteracao inespecifica da onda T em parede inferior. bloqueio de ramo direito incompleto. Manter seguimento ambulatorial de rotina.
+
+[LAUDO 047]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 120 bpm. Observa-se ritmo sinusal com arritmia respiratoria, com sobrecarga ventricular esquerda pelo criterio de Sokolow-Lyon. sobrecarga ventricular esquerda pelo criterio de Sokolow-Lyon. Manter seguimento ambulatorial de rotina.
+
+[LAUDO 048]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 79 bpm. Observa-se bradicardia sinusal, com bloqueio de ramo direito incompleto. infradesnivelamento do segmento ST de 1 mm em V5-V6. Encaminhar para avaliacao cardiologica em carater prioritario.
+
+[LAUDO 049]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 101 bpm. Observa-se fibrilacao atrial de resposta ventricular controlada, com eixo eletrico desviado para a esquerda. presenca de extrassistoles ventriculares isoladas. Encaminhar para avaliacao cardiologica em carater prioritario.
+
+[LAUDO 050]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 98 bpm. Observa-se bradicardia sinusal, com presenca de extrassistoles ventriculares isoladas. eixo eletrico desviado para a esquerda. Manter seguimento ambulatorial de rotina.
+
+[LAUDO 051]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 42 bpm. Observa-se ritmo sinusal com arritmia respiratoria, com eixo eletrico desviado para a esquerda. eixo eletrico desviado para a esquerda. Manter seguimento ambulatorial de rotina.
+
+[LAUDO 052]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 88 bpm. Observa-se fibrilacao atrial de resposta ventricular controlada, com alteracao inespecifica da onda T em parede inferior. sem alteracoes agudas da repolarizacao ventricular. Indicado Holter de 24 horas para melhor caracterizacao.
+
+[LAUDO 053]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 61 bpm. Observa-se fibrilacao atrial de resposta ventricular controlada, com bloqueio de ramo direito incompleto. eixo eletrico desviado para a esquerda. Encaminhar para avaliacao cardiologica em carater prioritario.
+
+[LAUDO 054]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 46 bpm. Observa-se fibrilacao atrial de resposta ventricular controlada, com infradesnivelamento do segmento ST de 1 mm em V5-V6. infradesnivelamento do segmento ST de 1 mm em V5-V6. Recomenda-se ecocardiograma transtoracico complementar.
+
+[LAUDO 055]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 85 bpm. Observa-se ritmo sinusal regular, com sem alteracoes agudas da repolarizacao ventricular. presenca de extrassistoles ventriculares isoladas. Sugere-se correlacao clinica.
+
+[LAUDO 056]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 121 bpm. Observa-se ritmo sinusal com arritmia respiratoria, com eixo eletrico desviado para a esquerda. presenca de extrassistoles ventriculares isoladas. Manter seguimento ambulatorial de rotina.
+
+[LAUDO 057]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 78 bpm. Observa-se ritmo sinusal com arritmia respiratoria, com sobrecarga ventricular esquerda pelo criterio de Sokolow-Lyon. bloqueio de ramo direito incompleto. Encaminhar para avaliacao cardiologica em carater prioritario.
+
+[LAUDO 058]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 54 bpm. Observa-se fibrilacao atrial de resposta ventricular controlada, com sobrecarga ventricular esquerda pelo criterio de Sokolow-Lyon. alteracao inespecifica da onda T em parede inferior. Recomenda-se ecocardiograma transtoracico complementar.
+
+[LAUDO 059]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 72 bpm. Observa-se ritmo sinusal regular, com eixo eletrico desviado para a esquerda. sobrecarga ventricular esquerda pelo criterio de Sokolow-Lyon. Sugere-se correlacao clinica.
+
+[LAUDO 060]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 140 bpm. Observa-se fibrilacao atrial de resposta ventricular controlada, com bloqueio de ramo direito incompleto. bloqueio de ramo direito incompleto. Recomenda-se ecocardiograma transtoracico complementar.
+
+[LAUDO 061]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 47 bpm. Observa-se ritmo sinusal regular, com eixo eletrico desviado para a esquerda. eixo eletrico desviado para a esquerda. Manter seguimento ambulatorial de rotina.
+
+[LAUDO 062]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 51 bpm. Observa-se fibrilacao atrial de resposta ventricular controlada, com sem alteracoes agudas da repolarizacao ventricular. presenca de extrassistoles ventriculares isoladas. Sugere-se correlacao clinica.
+
+[LAUDO 063]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 138 bpm. Observa-se taquicardia sinusal, com infradesnivelamento do segmento ST de 1 mm em V5-V6. eixo eletrico desviado para a esquerda. Manter seguimento ambulatorial de rotina.
+
+[LAUDO 064]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 52 bpm. Observa-se ritmo sinusal regular, com alteracao inespecifica da onda T em parede inferior. sobrecarga ventricular esquerda pelo criterio de Sokolow-Lyon. Manter seguimento ambulatorial de rotina.
+
+[LAUDO 065]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 76 bpm. Observa-se fibrilacao atrial de resposta ventricular controlada, com infradesnivelamento do segmento ST de 1 mm em V5-V6. sem alteracoes agudas da repolarizacao ventricular. Indicado Holter de 24 horas para melhor caracterizacao.
+
+[LAUDO 066]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 115 bpm. Observa-se ritmo sinusal com arritmia respiratoria, com bloqueio de ramo direito incompleto. infradesnivelamento do segmento ST de 1 mm em V5-V6. Encaminhar para avaliacao cardiologica em carater prioritario.
+
+[LAUDO 067]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 102 bpm. Observa-se bradicardia sinusal, com sobrecarga ventricular esquerda pelo criterio de Sokolow-Lyon. alteracao inespecifica da onda T em parede inferior. Indicado Holter de 24 horas para melhor caracterizacao.
+
+[LAUDO 068]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 54 bpm. Observa-se taquicardia sinusal, com sobrecarga ventricular esquerda pelo criterio de Sokolow-Lyon. bloqueio de ramo direito incompleto. Manter seguimento ambulatorial de rotina.
+
+[LAUDO 069]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 104 bpm. Observa-se bradicardia sinusal, com eixo eletrico desviado para a esquerda. sobrecarga ventricular esquerda pelo criterio de Sokolow-Lyon. Sugere-se correlacao clinica.
+
+[LAUDO 070]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 80 bpm. Observa-se fibrilacao atrial de resposta ventricular controlada, com alteracao inespecifica da onda T em parede inferior. bloqueio de ramo direito incompleto. Encaminhar para avaliacao cardiologica em carater prioritario.
+
+[LAUDO 071]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 130 bpm. Observa-se ritmo sinusal regular, com sobrecarga ventricular esquerda pelo criterio de Sokolow-Lyon. alteracao inespecifica da onda T em parede inferior. Indicado Holter de 24 horas para melhor caracterizacao.
+
+[LAUDO 072]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 107 bpm. Observa-se bradicardia sinusal, com bloqueio de ramo direito incompleto. eixo eletrico desviado para a esquerda. Recomenda-se ecocardiograma transtoracico complementar.
+
+[LAUDO 073]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 109 bpm. Observa-se bradicardia sinusal, com infradesnivelamento do segmento ST de 1 mm em V5-V6. infradesnivelamento do segmento ST de 1 mm em V5-V6. Recomenda-se ecocardiograma transtoracico complementar.
+
+[LAUDO 074]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 58 bpm. Observa-se fibrilacao atrial de resposta ventricular controlada, com sem alteracoes agudas da repolarizacao ventricular. infradesnivelamento do segmento ST de 1 mm em V5-V6. Recomenda-se ecocardiograma transtoracico complementar.
+
+[LAUDO 075]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 76 bpm. Observa-se fibrilacao atrial de resposta ventricular controlada, com sobrecarga ventricular esquerda pelo criterio de Sokolow-Lyon. presenca de extrassistoles ventriculares isoladas. Encaminhar para avaliacao cardiologica em carater prioritario.
+
+[LAUDO 076]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 77 bpm. Observa-se bradicardia sinusal, com alteracao inespecifica da onda T em parede inferior. presenca de extrassistoles ventriculares isoladas. Manter seguimento ambulatorial de rotina.
+
+[LAUDO 077]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 47 bpm. Observa-se bradicardia sinusal, com sobrecarga ventricular esquerda pelo criterio de Sokolow-Lyon. infradesnivelamento do segmento ST de 1 mm em V5-V6. Recomenda-se ecocardiograma transtoracico complementar.
+
+[LAUDO 078]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 76 bpm. Observa-se ritmo sinusal regular, com bloqueio de ramo direito incompleto. eixo eletrico desviado para a esquerda. Manter seguimento ambulatorial de rotina.
+
+[LAUDO 079]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 130 bpm. Observa-se taquicardia sinusal, com alteracao inespecifica da onda T em parede inferior. alteracao inespecifica da onda T em parede inferior. Indicado Holter de 24 horas para melhor caracterizacao.
+
+[LAUDO 080]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 128 bpm. Observa-se bradicardia sinusal, com eixo eletrico desviado para a esquerda. sem alteracoes agudas da repolarizacao ventricular. Encaminhar para avaliacao cardiologica em carater prioritario.
+
+[LAUDO 081]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 77 bpm. Observa-se ritmo sinusal com arritmia respiratoria, com infradesnivelamento do segmento ST de 1 mm em V5-V6. sem alteracoes agudas da repolarizacao ventricular. Manter seguimento ambulatorial de rotina.
+
+[LAUDO 082]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 72 bpm. Observa-se taquicardia sinusal, com infradesnivelamento do segmento ST de 1 mm em V5-V6. alteracao inespecifica da onda T em parede inferior. Recomenda-se ecocardiograma transtoracico complementar.
+
+[LAUDO 083]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 64 bpm. Observa-se taquicardia sinusal, com bloqueio de ramo direito incompleto. alteracao inespecifica da onda T em parede inferior. Recomenda-se ecocardiograma transtoracico complementar.
+
+[LAUDO 084]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 147 bpm. Observa-se ritmo sinusal regular, com sem alteracoes agudas da repolarizacao ventricular. bloqueio de ramo direito incompleto. Encaminhar para avaliacao cardiologica em carater prioritario.
+
+[LAUDO 085]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 111 bpm. Observa-se ritmo sinusal regular, com eixo eletrico desviado para a esquerda. alteracao inespecifica da onda T em parede inferior. Manter seguimento ambulatorial de rotina.
+
+[LAUDO 086]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 99 bpm. Observa-se fibrilacao atrial de resposta ventricular controlada, com presenca de extrassistoles ventriculares isoladas. presenca de extrassistoles ventriculares isoladas. Recomenda-se ecocardiograma transtoracico complementar.
+
+[LAUDO 087]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 137 bpm. Observa-se ritmo sinusal com arritmia respiratoria, com alteracao inespecifica da onda T em parede inferior. bloqueio de ramo direito incompleto. Encaminhar para avaliacao cardiologica em carater prioritario.
+
+[LAUDO 088]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 58 bpm. Observa-se ritmo sinusal com arritmia respiratoria, com bloqueio de ramo direito incompleto. eixo eletrico desviado para a esquerda. Sugere-se correlacao clinica.
+
+[LAUDO 089]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 106 bpm. Observa-se fibrilacao atrial de resposta ventricular controlada, com sobrecarga ventricular esquerda pelo criterio de Sokolow-Lyon. bloqueio de ramo direito incompleto. Recomenda-se ecocardiograma transtoracico complementar.
+
+[LAUDO 090]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 83 bpm. Observa-se ritmo sinusal regular, com bloqueio de ramo direito incompleto. presenca de extrassistoles ventriculares isoladas. Indicado Holter de 24 horas para melhor caracterizacao.
+
+[LAUDO 091]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 91 bpm. Observa-se fibrilacao atrial de resposta ventricular controlada, com alteracao inespecifica da onda T em parede inferior. presenca de extrassistoles ventriculares isoladas. Recomenda-se ecocardiograma transtoracico complementar.
+
+[LAUDO 092]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 65 bpm. Observa-se ritmo sinusal regular, com presenca de extrassistoles ventriculares isoladas. presenca de extrassistoles ventriculares isoladas. Encaminhar para avaliacao cardiologica em carater prioritario.
+
+[LAUDO 093]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 74 bpm. Observa-se fibrilacao atrial de resposta ventricular controlada, com sem alteracoes agudas da repolarizacao ventricular. alteracao inespecifica da onda T em parede inferior. Manter seguimento ambulatorial de rotina.
+
+[LAUDO 094]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 63 bpm. Observa-se ritmo sinusal com arritmia respiratoria, com bloqueio de ramo direito incompleto. sobrecarga ventricular esquerda pelo criterio de Sokolow-Lyon. Indicado Holter de 24 horas para melhor caracterizacao.
+
+[LAUDO 095]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 147 bpm. Observa-se ritmo sinusal com arritmia respiratoria, com presenca de extrassistoles ventriculares isoladas. presenca de extrassistoles ventriculares isoladas. Indicado Holter de 24 horas para melhor caracterizacao.
+
+[LAUDO 096]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 67 bpm. Observa-se taquicardia sinusal, com infradesnivelamento do segmento ST de 1 mm em V5-V6. alteracao inespecifica da onda T em parede inferior. Manter seguimento ambulatorial de rotina.
+
+[LAUDO 097]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 61 bpm. Observa-se bradicardia sinusal, com sem alteracoes agudas da repolarizacao ventricular. sobrecarga ventricular esquerda pelo criterio de Sokolow-Lyon. Manter seguimento ambulatorial de rotina.
+
+[LAUDO 098]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 96 bpm. Observa-se taquicardia sinusal, com infradesnivelamento do segmento ST de 1 mm em V5-V6. sem alteracoes agudas da repolarizacao ventricular. Indicado Holter de 24 horas para melhor caracterizacao.
+
+[LAUDO 099]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 119 bpm. Observa-se bradicardia sinusal, com eixo eletrico desviado para a esquerda. sem alteracoes agudas da repolarizacao ventricular. Encaminhar para avaliacao cardiologica em carater prioritario.
+
+[LAUDO 100]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 115 bpm. Observa-se ritmo sinusal regular, com sem alteracoes agudas da repolarizacao ventricular. bloqueio de ramo direito incompleto. Indicado Holter de 24 horas para melhor caracterizacao.
+
+[LAUDO 101]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 129 bpm. Observa-se ritmo sinusal com arritmia respiratoria, com sem alteracoes agudas da repolarizacao ventricular. bloqueio de ramo direito incompleto. Recomenda-se ecocardiograma transtoracico complementar.
+
+[LAUDO 102]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 123 bpm. Observa-se ritmo sinusal com arritmia respiratoria, com sem alteracoes agudas da repolarizacao ventricular. alteracao inespecifica da onda T em parede inferior. Sugere-se correlacao clinica.
+
+[LAUDO 103]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 54 bpm. Observa-se bradicardia sinusal, com sem alteracoes agudas da repolarizacao ventricular. bloqueio de ramo direito incompleto. Encaminhar para avaliacao cardiologica em carater prioritario.
+
+[LAUDO 104]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 85 bpm. Observa-se fibrilacao atrial de resposta ventricular controlada, com presenca de extrassistoles ventriculares isoladas. eixo eletrico desviado para a esquerda. Indicado Holter de 24 horas para melhor caracterizacao.
+
+[LAUDO 105]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 80 bpm. Observa-se taquicardia sinusal, com bloqueio de ramo direito incompleto. eixo eletrico desviado para a esquerda. Sugere-se correlacao clinica.
+
+[LAUDO 106]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 83 bpm. Observa-se fibrilacao atrial de resposta ventricular controlada, com sem alteracoes agudas da repolarizacao ventricular. infradesnivelamento do segmento ST de 1 mm em V5-V6. Manter seguimento ambulatorial de rotina.
+
+[LAUDO 107]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 130 bpm. Observa-se ritmo sinusal com arritmia respiratoria, com infradesnivelamento do segmento ST de 1 mm em V5-V6. infradesnivelamento do segmento ST de 1 mm em V5-V6. Indicado Holter de 24 horas para melhor caracterizacao.
+
+[LAUDO 108]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 126 bpm. Observa-se ritmo sinusal com arritmia respiratoria, com eixo eletrico desviado para a esquerda. eixo eletrico desviado para a esquerda. Sugere-se correlacao clinica.
+
+[LAUDO 109]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 84 bpm. Observa-se ritmo sinusal com arritmia respiratoria, com bloqueio de ramo direito incompleto. sobrecarga ventricular esquerda pelo criterio de Sokolow-Lyon. Encaminhar para avaliacao cardiologica em carater prioritario.
+
+[LAUDO 110]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 128 bpm. Observa-se fibrilacao atrial de resposta ventricular controlada, com bloqueio de ramo direito incompleto. sem alteracoes agudas da repolarizacao ventricular. Indicado Holter de 24 horas para melhor caracterizacao.
+
+[LAUDO 111]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 140 bpm. Observa-se bradicardia sinusal, com presenca de extrassistoles ventriculares isoladas. sem alteracoes agudas da repolarizacao ventricular. Recomenda-se ecocardiograma transtoracico complementar.
+
+[LAUDO 112]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 53 bpm. Observa-se fibrilacao atrial de resposta ventricular controlada, com sem alteracoes agudas da repolarizacao ventricular. bloqueio de ramo direito incompleto. Indicado Holter de 24 horas para melhor caracterizacao.
+
+[LAUDO 113]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 49 bpm. Observa-se ritmo sinusal com arritmia respiratoria, com alteracao inespecifica da onda T em parede inferior. sobrecarga ventricular esquerda pelo criterio de Sokolow-Lyon. Sugere-se correlacao clinica.
+
+[LAUDO 114]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 94 bpm. Observa-se taquicardia sinusal, com bloqueio de ramo direito incompleto. alteracao inespecifica da onda T em parede inferior. Recomenda-se ecocardiograma transtoracico complementar.
+
+[LAUDO 115]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 123 bpm. Observa-se ritmo sinusal regular, com eixo eletrico desviado para a esquerda. infradesnivelamento do segmento ST de 1 mm em V5-V6. Recomenda-se ecocardiograma transtoracico complementar.
+
+[LAUDO 116]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 133 bpm. Observa-se bradicardia sinusal, com bloqueio de ramo direito incompleto. alteracao inespecifica da onda T em parede inferior. Recomenda-se ecocardiograma transtoracico complementar.
+
+[LAUDO 117]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 90 bpm. Observa-se bradicardia sinusal, com alteracao inespecifica da onda T em parede inferior. sem alteracoes agudas da repolarizacao ventricular. Sugere-se correlacao clinica.
+
+[LAUDO 118]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 135 bpm. Observa-se ritmo sinusal com arritmia respiratoria, com alteracao inespecifica da onda T em parede inferior. infradesnivelamento do segmento ST de 1 mm em V5-V6. Recomenda-se ecocardiograma transtoracico complementar.
+
+[LAUDO 119]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 122 bpm. Observa-se fibrilacao atrial de resposta ventricular controlada, com presenca de extrassistoles ventriculares isoladas. bloqueio de ramo direito incompleto. Sugere-se correlacao clinica.
+
+[LAUDO 120]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 43 bpm. Observa-se fibrilacao atrial de resposta ventricular controlada, com bloqueio de ramo direito incompleto. infradesnivelamento do segmento ST de 1 mm em V5-V6. Manter seguimento ambulatorial de rotina.
+
+[LAUDO 121]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 99 bpm. Observa-se taquicardia sinusal, com alteracao inespecifica da onda T em parede inferior. sem alteracoes agudas da repolarizacao ventricular. Manter seguimento ambulatorial de rotina.
+
+[LAUDO 122]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 64 bpm. Observa-se ritmo sinusal regular, com alteracao inespecifica da onda T em parede inferior. alteracao inespecifica da onda T em parede inferior. Sugere-se correlacao clinica.
+
+[LAUDO 123]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 129 bpm. Observa-se taquicardia sinusal, com sobrecarga ventricular esquerda pelo criterio de Sokolow-Lyon. bloqueio de ramo direito incompleto. Manter seguimento ambulatorial de rotina.
+
+[LAUDO 124]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 82 bpm. Observa-se ritmo sinusal com arritmia respiratoria, com sobrecarga ventricular esquerda pelo criterio de Sokolow-Lyon. presenca de extrassistoles ventriculares isoladas. Indicado Holter de 24 horas para melhor caracterizacao.
+
+[LAUDO 125]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 105 bpm. Observa-se ritmo sinusal regular, com sem alteracoes agudas da repolarizacao ventricular. eixo eletrico desviado para a esquerda. Sugere-se correlacao clinica.
+
+[LAUDO 126]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 86 bpm. Observa-se ritmo sinusal com arritmia respiratoria, com alteracao inespecifica da onda T em parede inferior. bloqueio de ramo direito incompleto. Sugere-se correlacao clinica.
+
+[LAUDO 127]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 42 bpm. Observa-se bradicardia sinusal, com bloqueio de ramo direito incompleto. alteracao inespecifica da onda T em parede inferior. Recomenda-se ecocardiograma transtoracico complementar.
+
+[LAUDO 128]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 68 bpm. Observa-se fibrilacao atrial de resposta ventricular controlada, com eixo eletrico desviado para a esquerda. sobrecarga ventricular esquerda pelo criterio de Sokolow-Lyon. Encaminhar para avaliacao cardiologica em carater prioritario.
+
+[LAUDO 129]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 45 bpm. Observa-se fibrilacao atrial de resposta ventricular controlada, com sobrecarga ventricular esquerda pelo criterio de Sokolow-Lyon. presenca de extrassistoles ventriculares isoladas. Sugere-se correlacao clinica.
+
+[LAUDO 130]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 129 bpm. Observa-se ritmo sinusal regular, com sem alteracoes agudas da repolarizacao ventricular. sem alteracoes agudas da repolarizacao ventricular. Encaminhar para avaliacao cardiologica em carater prioritario.
+
+[LAUDO 131]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 97 bpm. Observa-se bradicardia sinusal, com bloqueio de ramo direito incompleto. sem alteracoes agudas da repolarizacao ventricular. Sugere-se correlacao clinica.
+
+[LAUDO 132]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 141 bpm. Observa-se taquicardia sinusal, com presenca de extrassistoles ventriculares isoladas. bloqueio de ramo direito incompleto. Encaminhar para avaliacao cardiologica em carater prioritario.
+
+[LAUDO 133]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 136 bpm. Observa-se bradicardia sinusal, com eixo eletrico desviado para a esquerda. presenca de extrassistoles ventriculares isoladas. Sugere-se correlacao clinica.
+
+[LAUDO 134]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 78 bpm. Observa-se ritmo sinusal regular, com eixo eletrico desviado para a esquerda. sem alteracoes agudas da repolarizacao ventricular. Manter seguimento ambulatorial de rotina.
+
+[LAUDO 135]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 80 bpm. Observa-se taquicardia sinusal, com eixo eletrico desviado para a esquerda. presenca de extrassistoles ventriculares isoladas. Manter seguimento ambulatorial de rotina.
+
+[LAUDO 136]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 119 bpm. Observa-se ritmo sinusal com arritmia respiratoria, com sem alteracoes agudas da repolarizacao ventricular. bloqueio de ramo direito incompleto. Recomenda-se ecocardiograma transtoracico complementar.
+
+[LAUDO 137]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 116 bpm. Observa-se ritmo sinusal com arritmia respiratoria, com sobrecarga ventricular esquerda pelo criterio de Sokolow-Lyon. sem alteracoes agudas da repolarizacao ventricular. Sugere-se correlacao clinica.
+
+[LAUDO 138]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 91 bpm. Observa-se ritmo sinusal com arritmia respiratoria, com sem alteracoes agudas da repolarizacao ventricular. infradesnivelamento do segmento ST de 1 mm em V5-V6. Encaminhar para avaliacao cardiologica em carater prioritario.
+
+[LAUDO 139]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 72 bpm. Observa-se fibrilacao atrial de resposta ventricular controlada, com sobrecarga ventricular esquerda pelo criterio de Sokolow-Lyon. infradesnivelamento do segmento ST de 1 mm em V5-V6. Sugere-se correlacao clinica.
+
+[LAUDO 140]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 98 bpm. Observa-se ritmo sinusal com arritmia respiratoria, com sem alteracoes agudas da repolarizacao ventricular. infradesnivelamento do segmento ST de 1 mm em V5-V6. Indicado Holter de 24 horas para melhor caracterizacao.
+
+[LAUDO 141]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 68 bpm. Observa-se ritmo sinusal regular, com eixo eletrico desviado para a esquerda. sobrecarga ventricular esquerda pelo criterio de Sokolow-Lyon. Sugere-se correlacao clinica.
+
+[LAUDO 142]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 109 bpm. Observa-se bradicardia sinusal, com presenca de extrassistoles ventriculares isoladas. eixo eletrico desviado para a esquerda. Encaminhar para avaliacao cardiologica em carater prioritario.
+
+[LAUDO 143]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 44 bpm. Observa-se taquicardia sinusal, com infradesnivelamento do segmento ST de 1 mm em V5-V6. sem alteracoes agudas da repolarizacao ventricular. Encaminhar para avaliacao cardiologica em carater prioritario.
+
+[LAUDO 144]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 87 bpm. Observa-se ritmo sinusal regular, com eixo eletrico desviado para a esquerda. eixo eletrico desviado para a esquerda. Recomenda-se ecocardiograma transtoracico complementar.
+
+[LAUDO 145]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 87 bpm. Observa-se ritmo sinusal regular, com sem alteracoes agudas da repolarizacao ventricular. presenca de extrassistoles ventriculares isoladas. Sugere-se correlacao clinica.
+
+[LAUDO 146]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 93 bpm. Observa-se ritmo sinusal com arritmia respiratoria, com sobrecarga ventricular esquerda pelo criterio de Sokolow-Lyon. infradesnivelamento do segmento ST de 1 mm em V5-V6. Recomenda-se ecocardiograma transtoracico complementar.
+
+[LAUDO 147]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 121 bpm. Observa-se fibrilacao atrial de resposta ventricular controlada, com sem alteracoes agudas da repolarizacao ventricular. bloqueio de ramo direito incompleto. Encaminhar para avaliacao cardiologica em carater prioritario.
+
+[LAUDO 148]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 116 bpm. Observa-se taquicardia sinusal, com eixo eletrico desviado para a esquerda. bloqueio de ramo direito incompleto. Manter seguimento ambulatorial de rotina.
+
+[LAUDO 149]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 77 bpm. Observa-se ritmo sinusal regular, com presenca de extrassistoles ventriculares isoladas. presenca de extrassistoles ventriculares isoladas. Recomenda-se ecocardiograma transtoracico complementar.
+
+[LAUDO 150]
+Eletrocardiograma de repouso, 12 derivacoes. Frequencia cardiaca de 73 bpm. Observa-se ritmo sinusal regular, com eixo eletrico desviado para a esquerda. alteracao inespecifica da onda T em parede inferior. Sugere-se correlacao clinica.
